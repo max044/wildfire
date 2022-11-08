@@ -22,3 +22,10 @@ pip install -r requirements.txt
 ```
 ./push_script.sh
 ```
+
+# Branches
+
+"main" branche is reserved to clean code.
+If you want to make tests or create another branche
+
+EDA need to have its own branche
